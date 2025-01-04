@@ -9,6 +9,7 @@ module.exports = {
 
     mocha: true,
 
+  env: {
 
     'eslint:recommended',
     'plugin:import/errors',
