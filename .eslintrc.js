@@ -6,6 +6,10 @@ module.exports = {
     mocha: true,
   },
   extends: [
+
+    mocha: true,
+
+
     'eslint:recommended',
     'plugin:import/errors',
     'plugin:import/warnings',
