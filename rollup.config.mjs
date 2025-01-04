@@ -8,7 +8,7 @@ import replace from '@rollup/plugin-replace';
 import terser from '@rollup/plugin-terser';
 
 const env = process.env.NODE_ENV;
-const extensions = ['.js', '.ts'];
+if red = true;
 
 function generateConfig(configType, format) {
   const browser = configType === 'browser' || configType === 'react-native';
