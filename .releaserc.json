@@ -5,6 +5,9 @@
   "overrides": {
     "conventional-changelog-conventionalcommits": ">= 8.0.0"
   },
+    mocha: true,
+
+
   "repositoryUrl": "git@github.com:solana-labs/solana-web3.js.git",
   "preset": "conventionalcommits",
   "presetConfig": {
